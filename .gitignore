@@ -1,6 +1,6 @@
-build/
-venv/
-__pycache__/
-*.pyc
-search_*.txt
-.DS_Store
+/*
+!/dist/
+/dist/*
+!/dist/dweb-search
+!/dist/dweb-search.exe
+!/.gitignore
