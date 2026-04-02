@@ -1,0 +1,6 @@
+/*
+!/dist/
+/dist/*
+!/dist/dweb-search
+!/dist/dweb-search.exe
+!/.gitignore
